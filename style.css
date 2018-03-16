@@ -1,0 +1,34 @@
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 200%;
+    color:rgb(18, 58, 92);
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 140%;
+    color: pink;
+}
+label{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 140%;
+    color: pink;
+}
+h2 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 170%;
+    color: aliceblue;
+}
+h3 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 170%;
+    color: aliceblue;
+}
+.border {
+    border-color: black;
+    border-width: 5px;
+    border-style:dotted;
+    border-radius:dotted;
+}
+body {
+    background-color: rgb(27, 4, 4);
+}
